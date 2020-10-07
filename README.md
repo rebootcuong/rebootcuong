@@ -3,6 +3,6 @@
 <div align="center">
   </div>
   <div align="center">
-  <p>I am a Red Team Analyst during the day. By night, I'm a CTF player. I love playing King of the Hill and enjoy learning everyday! I'm starting to learn to automate the boring stuff. I have passion for everything Offensive Security and I am currently learning Malware development.</p>
+  <p>I am a Red Team Analyst during the day. By night, I'm a CTF player. I love playing King of the Hill and enjoy learning everyday! I have passion for everything Offensive Security and I am currently learning Malware development.</p>
   
 
